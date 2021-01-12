@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:03:16 PM On 1/5/2021
+
+Output: 28 Pins BOM Purchasing
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[28 Pins BOM Purchasing-PCB_Project.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:03:32 PM On 1/5/2021
